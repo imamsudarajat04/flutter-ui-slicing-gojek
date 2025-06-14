@@ -27,19 +27,11 @@ class HomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Search(),
-
             Gopay(),
-
             Menu(),
-
             GoClub(),
-
             QuickAccess(),
-
             GopayLater(),
-
-            
-
             News(),
           ],
         ),
